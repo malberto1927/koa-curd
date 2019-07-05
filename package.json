@@ -1,0 +1,29 @@
+{
+  "name": "koa-curd",
+  "version": "1.0.0",
+  "description": "CRUD de una entidad creado en koa para la serie de ejemplos de frameworks en nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malberto1927/koa-curd.git"
+  },
+  "keywords": [
+    "nodejs",
+    "koa",
+    "javascript"
+  ],
+  "author": "Mario Alberto Villagrana Hurtado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malberto1927/koa-curd/issues"
+  },
+  "homepage": "https://github.com/malberto1927/koa-curd#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  },
+  "devDependencies": {}
+}
